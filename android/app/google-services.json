@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273052674350",
+    "project_id": "myreadpal-cb928",
+    "storage_bucket": "myreadpal-cb928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273052674350:android:77756c71c0a1bd55a3b2bf",
+        "android_client_info": {
+          "package_name": "com.example.myreadpal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273052674350-ua22vd6t8has3vni9g6h5e62ni824gsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcTvoPWu6SpPI3qvFdq8xYYh1RWvRD4cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273052674350-ua22vd6t8has3vni9g6h5e62ni824gsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
